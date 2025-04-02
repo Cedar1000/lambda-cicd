@@ -7,7 +7,7 @@
  * @param {Object} context
  *
  * Return doc: https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-proxy-integrations.html
- * @returns {Object} object - API Gateway Lambda Proxy Output Formats
+ * @returns {Object} object - API Gateway Lambda Proxy Output Format
  *
  */
 
